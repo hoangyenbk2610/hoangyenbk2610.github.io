@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="hoangyenbk2610.github.io" resolutions="1x" timestamp="1494388328559">
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="hoangyenbk2610.github.io" resolutions="1x" timestamp="1494389471149">
   <folder name="images">
     <file name="8.jpg" crc="161193527" seo="true" ref="index"/>
   </folder>
@@ -12,5 +12,5 @@
     <file name="whatinput.js" crc="84559013" ref="index"/>
     <file name="jquery.watch.js" crc="3866665977" ref="index"/>
   </folder>
-  <file name="index.html" crc="162985645" seo="true" mt="1494388324159" redirect="true"/>
+  <file name="index.html" crc="4194009915" seo="true" mt="1494388930749" redirect="true"/>
 </manifest>
