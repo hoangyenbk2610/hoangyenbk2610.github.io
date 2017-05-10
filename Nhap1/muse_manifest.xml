@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="hoangyenbk2610.github.io" resolutions="1x" timestamp="1494387420583">
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="hoangyenbk2610.github.io" resolutions="1x" timestamp="1494387930772">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="3862925803" ref="index"/>
+    <file name="index.css" crc="4236944284" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="484278746" ref="index"/>
@@ -14,11 +14,9 @@
     <file name="jquery.watch.js" crc="3866665977" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="cactus.jpg" crc="4203176078" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="road.jpg" crc="4032504927" seo="true" ref="index"/>
-    <file name="trees.jpg" crc="262675519" seo="true" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="4-crop-u100.jpg" crc="338456121" ref="index"/>
   </folder>
-  <file name="index.html" crc="3915331876" seo="true" mt="1494387304878" redirect="true"/>
+  <file name="index.html" crc="451973325" seo="true" mt="1494387918097" redirect="true"/>
 </manifest>
